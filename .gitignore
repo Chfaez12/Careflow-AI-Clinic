@@ -1,0 +1,12 @@
+.local-https/
+certs/
+.env*.local
+**/.env
+**/.env.*
+!**/.env.example
+*.pem
+**/.venv/
+**/__pycache__/
+**/*.py[cod]
+**/node_modules/
+**/.next/
